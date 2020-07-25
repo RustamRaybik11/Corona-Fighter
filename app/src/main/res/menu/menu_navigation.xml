@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Home"/>
+    <item
+        android:id="@+id/nav_symptoms"
+        android:icon="@drawable/ic_symptoms_black_24dp"
+        android:title="Symptoms"/>
+    <item
+        android:id="@+id/nav_preventions"
+        android:icon="@drawable/ic_mood_black_24dp"
+        android:title="Preventions"/>
+    <item
+        android:id="@+id/nav_myths"
+        android:icon="@drawable/ic_cancel_black_24dp"
+        android:title="Myths"/>
+    <item
+        android:id="@+id/nav_statistic"
+        android:icon="@drawable/ic_statistic_black_24dp"
+        android:title="Statistic"/>
+</menu>
